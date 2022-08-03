@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "задача-branch2",
+      "appliesTo": "branch2.md",
+      "type": "launch"
+    }
+  ]
+}
