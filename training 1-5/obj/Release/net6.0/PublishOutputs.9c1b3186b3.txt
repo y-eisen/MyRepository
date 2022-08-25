@@ -1,0 +1,5 @@
+D:\Program\C#\training 1-5.exe
+D:\Program\C#\training 1-5.dll
+D:\Program\C#\training 1-5.deps.json
+D:\Program\C#\training 1-5.runtimeconfig.json
+D:\Program\C#\training 1-5.pdb

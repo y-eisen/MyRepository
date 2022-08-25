@@ -1,7 +1,7 @@
 ﻿using System;
 class mainClass
 {
-        public static void Main(string[] args)
+    public static void Main(string[] args)
     {
         // (string Name, string LName, int age, string[] Pets, string[] Colors) user = GetUser();
         (string Name, string LName, int age, string[] Pets, string[] FCols) user = GetUser();
@@ -39,7 +39,7 @@ class mainClass
         }
 
         //цвета
-        am = intQuestion("Колиечество любимых цветов? ");
+        am = intQuestion("Сколько у вас любимых цветов? ");
         var arr1 = new string[am];
         newUser.FCols = arr1;
         for (i = 0; i < am; i++) newUser.FCols[i] = StringQuestion("Любимый цвет номер " + (i + 1).ToString());
@@ -69,7 +69,7 @@ class mainClass
             Console.WriteLine(txt);
             s = Console.ReadLine();
             result = StrToInt(s);
-            if (result== 0) Console.WriteLine("Некорректный ввод, попробуем ещё раз.");
+            if (result==0) Console.WriteLine("Некорректный ввод, попробуем ещё раз.");
         }
         while (result== 0);
         return result;

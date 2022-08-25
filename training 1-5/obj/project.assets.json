@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Program\\C#\\training 1-5\\training 1-5.csproj",
+      "projectUniqueName": "D:\\Program\\Repositories\\MyRepository\\training 1-5\\training 1-5.csproj",
       "projectName": "training 1-5",
-      "projectPath": "D:\\Program\\C#\\training 1-5\\training 1-5.csproj",
+      "projectPath": "D:\\Program\\Repositories\\MyRepository\\training 1-5\\training 1-5.csproj",
       "packagesPath": "C:\\Users\\Юрий\\.nuget\\packages\\",
-      "outputPath": "D:\\Program\\C#\\training 1-5\\obj\\",
+      "outputPath": "D:\\Program\\Repositories\\MyRepository\\training 1-5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Юрий\\AppData\\Roaming\\NuGet\\NuGet.Config",
