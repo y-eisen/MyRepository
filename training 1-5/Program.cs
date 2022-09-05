@@ -3,12 +3,46 @@ class mainClass
 {
     public static void Main(string[] args)
     {
-        // (string Name, string LName, int age, string[] Pets, string[] Colors) user = GetUser();
-        (string Name, string LName, int age, string[] Pets, string[] FCols) user = GetUser();
+        string s;
+        
+        s = StringQuestion("Запустим модуль 1-5 про запрос всякого?");
+        if (s == "y")
+        {
+            // (string Name, string LName, int age, string[] Pets, string[] Colors) user = GetUser();
+            (string Name, string LName, int age, string[] Pets, string[] FCols) user = GetUser();
+            Console.WriteLine("\nНачинаем выводить результаты");
+            Console.ReadKey();
+        }
 
-        Console.WriteLine("\nНачинаем выводить результаты");
+        Bus NewBus = new Bus {Load=11};
+        //NewBus.Load = 0;
+        NewBus.PrintStatus();
+
+
+        int[][] TestObj = new int[2][];
+        TestObj[0] = new int[2];
+        TestObj[1] = new int[2];
+        TestObj[0][0] = 10;
+
+        Console.WriteLine(TestObj[0][ 0]);
+
         Console.ReadKey();
 
+
+
+    }
+
+    class Bus
+    {
+        public int? Load;
+
+        public void PrintStatus()
+        {
+            if (Load.HasValue)
+            {Console.WriteLine("Количество пассажиров {0}", Load.Value);}
+            else
+            {Console.WriteLine("Пусто");}
+        }
     }
 
     static (string Name, string LName, int age, string[] Pets, string[] FCols) GetUser()
@@ -47,7 +81,6 @@ class mainClass
         return newUser;
     }
 
-
     // функции запроса значений
     static int StrToInt(string s)
     {
@@ -74,6 +107,5 @@ class mainClass
         while (result== 0);
         return result;
     }
-
 
 }
