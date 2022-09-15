@@ -1,0 +1,15 @@
+D:\Program\Repositories\MyRepository\WorkWithFiles_SF\Task1_4_unit_8\obj\Debug\net6.0\Task1_4_unit_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\Repositories\MyRepository\WorkWithFiles_SF\Task1_4_unit_8\obj\Debug\net6.0\Task1_4_unit_8.AssemblyInfoInputs.cache
+D:\Program\Repositories\MyRepository\WorkWithFiles_SF\Task1_4_unit_8\obj\Debug\net6.0\Task1_4_unit_8.AssemblyInfo.cs
+D:\Program\Repositories\MyRepository\WorkWithFiles_SF\Task1_4_unit_8\obj\Debug\net6.0\Task1_4_unit_8.csproj.CoreCompileInputs.cache
+D:\Program\Repositories\MyRepository\WorkWithFiles_SF\Task1_4_unit_8\bin\Debug\net6.0\Task1_4_unit_8.exe
+D:\Program\Repositories\MyRepository\WorkWithFiles_SF\Task1_4_unit_8\bin\Debug\net6.0\Task1_4_unit_8.deps.json
+D:\Program\Repositories\MyRepository\WorkWithFiles_SF\Task1_4_unit_8\bin\Debug\net6.0\Task1_4_unit_8.runtimeconfig.json
+D:\Program\Repositories\MyRepository\WorkWithFiles_SF\Task1_4_unit_8\bin\Debug\net6.0\Task1_4_unit_8.dll
+D:\Program\Repositories\MyRepository\WorkWithFiles_SF\Task1_4_unit_8\bin\Debug\net6.0\ref\Task1_4_unit_8.dll
+D:\Program\Repositories\MyRepository\WorkWithFiles_SF\Task1_4_unit_8\bin\Debug\net6.0\Task1_4_unit_8.pdb
+D:\Program\Repositories\MyRepository\WorkWithFiles_SF\Task1_4_unit_8\obj\Debug\net6.0\Task1_4_unit_8.dll
+D:\Program\Repositories\MyRepository\WorkWithFiles_SF\Task1_4_unit_8\obj\Debug\net6.0\ref\Task1_4_unit_8.dll
+D:\Program\Repositories\MyRepository\WorkWithFiles_SF\Task1_4_unit_8\obj\Debug\net6.0\Task1_4_unit_8.pdb
+D:\Program\Repositories\MyRepository\WorkWithFiles_SF\Task1_4_unit_8\obj\Debug\net6.0\Task1_4_unit_8.genruntimeconfig.cache
+D:\Program\Repositories\MyRepository\WorkWithFiles_SF\Task1_4_unit_8\obj\Debug\net6.0\Task1_4_unit_8.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+D:\Program\Repositories\MyRepository\training 1-8\bin\Debug\net6.0\training 1-8.exe
+D:\Program\Repositories\MyRepository\training 1-8\bin\Debug\net6.0\training 1-8.deps.json
+D:\Program\Repositories\MyRepository\training 1-8\bin\Debug\net6.0\training 1-8.runtimeconfig.json
+D:\Program\Repositories\MyRepository\training 1-8\bin\Debug\net6.0\training 1-8.dll
+D:\Program\Repositories\MyRepository\training 1-8\bin\Debug\net6.0\ref\training 1-8.dll
+D:\Program\Repositories\MyRepository\training 1-8\bin\Debug\net6.0\training 1-8.pdb
+D:\Program\Repositories\MyRepository\training 1-8\obj\Debug\net6.0\training 1-8.csproj.AssemblyReference.cache
+D:\Program\Repositories\MyRepository\training 1-8\obj\Debug\net6.0\training 1-8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\Repositories\MyRepository\training 1-8\obj\Debug\net6.0\training 1-8.AssemblyInfoInputs.cache
+D:\Program\Repositories\MyRepository\training 1-8\obj\Debug\net6.0\training 1-8.AssemblyInfo.cs
+D:\Program\Repositories\MyRepository\training 1-8\obj\Debug\net6.0\training 1-8.csproj.CoreCompileInputs.cache
+D:\Program\Repositories\MyRepository\training 1-8\obj\Debug\net6.0\training 1-8.dll
+D:\Program\Repositories\MyRepository\training 1-8\obj\Debug\net6.0\ref\training 1-8.dll
+D:\Program\Repositories\MyRepository\training 1-8\obj\Debug\net6.0\training 1-8.pdb
+D:\Program\Repositories\MyRepository\training 1-8\obj\Debug\net6.0\training 1-8.genruntimeconfig.cache

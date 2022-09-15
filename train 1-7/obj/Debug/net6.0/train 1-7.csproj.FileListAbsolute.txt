@@ -1,0 +1,15 @@
+D:\Program\Repositories\MyRepository\train 1-7\obj\Debug\net6.0\train 1-7.csproj.AssemblyReference.cache
+D:\Program\Repositories\MyRepository\train 1-7\obj\Debug\net6.0\train 1-7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\Repositories\MyRepository\train 1-7\obj\Debug\net6.0\train 1-7.AssemblyInfoInputs.cache
+D:\Program\Repositories\MyRepository\train 1-7\obj\Debug\net6.0\train 1-7.AssemblyInfo.cs
+D:\Program\Repositories\MyRepository\train 1-7\obj\Debug\net6.0\train 1-7.csproj.CoreCompileInputs.cache
+D:\Program\Repositories\MyRepository\train 1-7\bin\Debug\net6.0\train 1-7.exe
+D:\Program\Repositories\MyRepository\train 1-7\bin\Debug\net6.0\train 1-7.deps.json
+D:\Program\Repositories\MyRepository\train 1-7\bin\Debug\net6.0\train 1-7.runtimeconfig.json
+D:\Program\Repositories\MyRepository\train 1-7\bin\Debug\net6.0\train 1-7.dll
+D:\Program\Repositories\MyRepository\train 1-7\bin\Debug\net6.0\ref\train 1-7.dll
+D:\Program\Repositories\MyRepository\train 1-7\bin\Debug\net6.0\train 1-7.pdb
+D:\Program\Repositories\MyRepository\train 1-7\obj\Debug\net6.0\train 1-7.dll
+D:\Program\Repositories\MyRepository\train 1-7\obj\Debug\net6.0\ref\train 1-7.dll
+D:\Program\Repositories\MyRepository\train 1-7\obj\Debug\net6.0\train 1-7.pdb
+D:\Program\Repositories\MyRepository\train 1-7\obj\Debug\net6.0\train 1-7.genruntimeconfig.cache
