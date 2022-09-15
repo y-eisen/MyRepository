@@ -134,10 +134,10 @@ public class Unit_1_8
     {
         DirectoryInfo mainD;
         try
-        {   mainD = dirIn[0]; }
+        { mainD = dirIn[0]; }
         catch
         {   //Console.WriteLine("Вызвано упражнение 2\n\n");
-             mainD = getFolder(); }
+            mainD = getFolder(); }
 
         try
         { Console.WriteLine("Имя папки успешно задано: " + mainD.FullName); }
@@ -148,12 +148,12 @@ public class Unit_1_8
             Environment.Exit(0);
         }
 
-        long result = DirSize(mainD,true);
+        long result = DirSize(mainD, true);
 
-        if (result>0)
-        {   Console.WriteLine("\nВес папки {0} составляет {1} байт", mainD, result);}
+        if (result > 0)
+        { Console.WriteLine("\nВес папки {0} составляет {1} байт", mainD, result); }
         else
-        {   Console.WriteLine("\nВес папки {0} составляет не менее {1} байт", mainD, -result);
+        { Console.WriteLine("\nВес папки {0} составляет не менее {1} байт", mainD, -result);
             Console.WriteLine("Папка пуста (если после сообщения об успешном задании имени папки не было сообщений об ошибках), либо в процессе подсчёта встретились какие-то проблемы и тогда подсчёт может быть некорректен");
         }
         return mainD;
@@ -163,8 +163,41 @@ public class Unit_1_8
     {
         Console.WriteLine("\n\nВызвано упражнение 4\n\n");
 
+        //выбор файла для загрузки
+        Console.WriteLine("Выбор папки в которой лежит исходный файл.");
+        DirectoryInfo mainD = getFolder();
+
+        try
+        { Console.WriteLine("Имя папки успешно задано: " + mainD.FullName); }
+        catch
+        { Console.WriteLine("Завершаем работу приложения");
+            Console.ReadKey();
+            Environment.Exit(0); }
+
+        string fileName = mainD.FullName + "//Students.dat";
+        if (File.Exists(fileName))
+        { Console.WriteLine("Файл с данными найден"); }
+        else { Console.WriteLine("Файл с данными не найден. \nЗавершаем работу приложения"); Console.ReadKey(); Environment.Exit(0); }
+
+        //создаём папку вывода
+        string mainPath = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory) + "//students";
+        DirectoryInfo outDir = new DirectoryInfo(mainPath);
+        if (!outDir.Exists) outDir.Create();
+
+        //список групп
+        var groups = new List<string>();
+
+        //поехали читать исходный файл
+
+        using (BinaryReader reader = new BinaryReader(File.Open(fileName, FileMode.Open)))
+        {   /// задача конечно примитивна, но почему не получается скачать предложенный файл по схеме - я не понимаю
+            /// очень интересно было бы узнать, что это блин за ребус, почему не читается
+            /// или тут имелось в виду, что нужно сообразить собрать себе свой двоичный файл по предложенной схеме, а не пользоваться готовым с сайта?
+        }
+
     }
 
+   
     //======================
     public static DirectoryInfo getFolder()
     {
