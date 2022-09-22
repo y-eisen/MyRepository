@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Program\\Repositories\\MyRepository\\WorkWithFiles_SF\\Task1_4_unit_8\\Task1_4_unit_8.csproj": {}
+    "D:\\Program\\Repositories\\MyRepository\\1. C# Practice\\1.8 WorkWithFiles_SF\\Task1_4_unit_8\\Task1_4_unit_8.csproj": {}
   },
   "projects": {
-    "D:\\Program\\Repositories\\MyRepository\\WorkWithFiles_SF\\Task1_4_unit_8\\Task1_4_unit_8.csproj": {
+    "D:\\Program\\Repositories\\MyRepository\\1. C# Practice\\1.8 WorkWithFiles_SF\\Task1_4_unit_8\\Task1_4_unit_8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Program\\Repositories\\MyRepository\\WorkWithFiles_SF\\Task1_4_unit_8\\Task1_4_unit_8.csproj",
+        "projectUniqueName": "D:\\Program\\Repositories\\MyRepository\\1. C# Practice\\1.8 WorkWithFiles_SF\\Task1_4_unit_8\\Task1_4_unit_8.csproj",
         "projectName": "Task1_4_unit_8",
-        "projectPath": "D:\\Program\\Repositories\\MyRepository\\WorkWithFiles_SF\\Task1_4_unit_8\\Task1_4_unit_8.csproj",
+        "projectPath": "D:\\Program\\Repositories\\MyRepository\\1. C# Practice\\1.8 WorkWithFiles_SF\\Task1_4_unit_8\\Task1_4_unit_8.csproj",
         "packagesPath": "C:\\Users\\Юрий\\.nuget\\packages\\",
-        "outputPath": "D:\\Program\\Repositories\\MyRepository\\WorkWithFiles_SF\\Task1_4_unit_8\\obj\\",
+        "outputPath": "D:\\Program\\Repositories\\MyRepository\\1. C# Practice\\1.8 WorkWithFiles_SF\\Task1_4_unit_8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Юрий\\AppData\\Roaming\\NuGet\\NuGet.Config",

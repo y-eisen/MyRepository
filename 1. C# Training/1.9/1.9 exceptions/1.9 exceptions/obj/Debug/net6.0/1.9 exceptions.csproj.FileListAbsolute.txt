@@ -1,0 +1,15 @@
+D:\Program\Repositories\MyRepository\1. C# Training\1.9\1.9 exceptions\1.9 exceptions\bin\Debug\net6.0\1.9 exceptions.exe
+D:\Program\Repositories\MyRepository\1. C# Training\1.9\1.9 exceptions\1.9 exceptions\bin\Debug\net6.0\1.9 exceptions.deps.json
+D:\Program\Repositories\MyRepository\1. C# Training\1.9\1.9 exceptions\1.9 exceptions\bin\Debug\net6.0\1.9 exceptions.runtimeconfig.json
+D:\Program\Repositories\MyRepository\1. C# Training\1.9\1.9 exceptions\1.9 exceptions\bin\Debug\net6.0\1.9 exceptions.dll
+D:\Program\Repositories\MyRepository\1. C# Training\1.9\1.9 exceptions\1.9 exceptions\bin\Debug\net6.0\ref\1.9 exceptions.dll
+D:\Program\Repositories\MyRepository\1. C# Training\1.9\1.9 exceptions\1.9 exceptions\bin\Debug\net6.0\1.9 exceptions.pdb
+D:\Program\Repositories\MyRepository\1. C# Training\1.9\1.9 exceptions\1.9 exceptions\obj\Debug\net6.0\1.9 exceptions.csproj.AssemblyReference.cache
+D:\Program\Repositories\MyRepository\1. C# Training\1.9\1.9 exceptions\1.9 exceptions\obj\Debug\net6.0\1.9 exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\Repositories\MyRepository\1. C# Training\1.9\1.9 exceptions\1.9 exceptions\obj\Debug\net6.0\1.9 exceptions.AssemblyInfoInputs.cache
+D:\Program\Repositories\MyRepository\1. C# Training\1.9\1.9 exceptions\1.9 exceptions\obj\Debug\net6.0\1.9 exceptions.AssemblyInfo.cs
+D:\Program\Repositories\MyRepository\1. C# Training\1.9\1.9 exceptions\1.9 exceptions\obj\Debug\net6.0\1.9 exceptions.csproj.CoreCompileInputs.cache
+D:\Program\Repositories\MyRepository\1. C# Training\1.9\1.9 exceptions\1.9 exceptions\obj\Debug\net6.0\1.9 exceptions.dll
+D:\Program\Repositories\MyRepository\1. C# Training\1.9\1.9 exceptions\1.9 exceptions\obj\Debug\net6.0\ref\1.9 exceptions.dll
+D:\Program\Repositories\MyRepository\1. C# Training\1.9\1.9 exceptions\1.9 exceptions\obj\Debug\net6.0\1.9 exceptions.pdb
+D:\Program\Repositories\MyRepository\1. C# Training\1.9\1.9 exceptions\1.9 exceptions\obj\Debug\net6.0\1.9 exceptions.genruntimeconfig.cache

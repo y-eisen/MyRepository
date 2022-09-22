@@ -1,0 +1,15 @@
+D:\Program\Repositories\MyRepository\1. C# Practice\1.9 Exceptions\1-9 Exceptions\1-9 Exceptions\bin\Debug\net6.0\1-9 Exceptions.exe
+D:\Program\Repositories\MyRepository\1. C# Practice\1.9 Exceptions\1-9 Exceptions\1-9 Exceptions\bin\Debug\net6.0\1-9 Exceptions.deps.json
+D:\Program\Repositories\MyRepository\1. C# Practice\1.9 Exceptions\1-9 Exceptions\1-9 Exceptions\bin\Debug\net6.0\1-9 Exceptions.runtimeconfig.json
+D:\Program\Repositories\MyRepository\1. C# Practice\1.9 Exceptions\1-9 Exceptions\1-9 Exceptions\bin\Debug\net6.0\1-9 Exceptions.dll
+D:\Program\Repositories\MyRepository\1. C# Practice\1.9 Exceptions\1-9 Exceptions\1-9 Exceptions\bin\Debug\net6.0\ref\1-9 Exceptions.dll
+D:\Program\Repositories\MyRepository\1. C# Practice\1.9 Exceptions\1-9 Exceptions\1-9 Exceptions\bin\Debug\net6.0\1-9 Exceptions.pdb
+D:\Program\Repositories\MyRepository\1. C# Practice\1.9 Exceptions\1-9 Exceptions\1-9 Exceptions\obj\Debug\net6.0\1-9 Exceptions.csproj.AssemblyReference.cache
+D:\Program\Repositories\MyRepository\1. C# Practice\1.9 Exceptions\1-9 Exceptions\1-9 Exceptions\obj\Debug\net6.0\1-9 Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\Repositories\MyRepository\1. C# Practice\1.9 Exceptions\1-9 Exceptions\1-9 Exceptions\obj\Debug\net6.0\1-9 Exceptions.AssemblyInfoInputs.cache
+D:\Program\Repositories\MyRepository\1. C# Practice\1.9 Exceptions\1-9 Exceptions\1-9 Exceptions\obj\Debug\net6.0\1-9 Exceptions.AssemblyInfo.cs
+D:\Program\Repositories\MyRepository\1. C# Practice\1.9 Exceptions\1-9 Exceptions\1-9 Exceptions\obj\Debug\net6.0\1-9 Exceptions.csproj.CoreCompileInputs.cache
+D:\Program\Repositories\MyRepository\1. C# Practice\1.9 Exceptions\1-9 Exceptions\1-9 Exceptions\obj\Debug\net6.0\1-9 Exceptions.dll
+D:\Program\Repositories\MyRepository\1. C# Practice\1.9 Exceptions\1-9 Exceptions\1-9 Exceptions\obj\Debug\net6.0\ref\1-9 Exceptions.dll
+D:\Program\Repositories\MyRepository\1. C# Practice\1.9 Exceptions\1-9 Exceptions\1-9 Exceptions\obj\Debug\net6.0\1-9 Exceptions.pdb
+D:\Program\Repositories\MyRepository\1. C# Practice\1.9 Exceptions\1-9 Exceptions\1-9 Exceptions\obj\Debug\net6.0\1-9 Exceptions.genruntimeconfig.cache
