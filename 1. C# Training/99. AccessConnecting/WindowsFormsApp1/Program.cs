@@ -23,24 +23,16 @@ namespace WindowsFormsApp1
         }
     }
 
-    /*public class ConnectionClass
-    {
-        //public static string connectString = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\\Program\\Repositories\\MyRepository\\1. C# Training\\99. AccessConnecting\\f-main.accdb;";
-        public static string connectString = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\\Program\\Repositories\\MyRepository\\1. C# Training\\99. AccessConnecting\\f-main.accdb;Persist Security Info=False;";
-        // вариант 2
-        //public static string connectString = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=Workers.mdb;";
-    }
-    */
+
 }
 
 
 public class MsAccessWorking
 {
     private OleDbConnection BaseConnection;
-    private OleDbCommand Command;
     private OleDbDataReader Reader;
 
-    private static string ConnectionString(string fn)
+    private string ConnectionString(string fn)
     {
         string Result = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=[dataFileName];Persist Security Info=False;";
         if (fn == "") throw new ArgumentNullException("Пустое имя файла");
@@ -50,29 +42,105 @@ public class MsAccessWorking
     }
 
     public MsAccessWorking(string fn)
-    { BaseConnection = new OleDbConnection(ConnectionString(fn)); }
+    {
+        try
+        {
+            BaseConnection = new OleDbConnection(ConnectionString(fn));
+            BaseConnection.Open();
+        }
+        catch (Exception)
+        { throw; }
+    }
+
     public void CloseConnection()
     { BaseConnection.Close(); }
 
-    public List<string[]> getDateFromBase(string sql)
+    public List<string[]> getDataFromBase(string sql)  //загрузка не глядя на форматы
     {
         if (sql == "") throw new ArgumentNullException("Пустая инструкция");
 
         try
         {
             // создаем объект OleDbCommand для выполнения запроса к БД MS Access
-            Command = new OleDbCommand(sql, BaseConnection);
+            OleDbCommand Command = new OleDbCommand(sql, BaseConnection);
             // получаем объект OleDbDataReader для чтения табличного результата запроса SELECT
             Reader = Command.ExecuteReader();
         }
-        catch (Exception ex)
+        catch (Exception)
         { throw; }
 
         int fldAm = Reader.FieldCount;
 
         var Res = new List<string[]>();
 
+        while (Reader.Read())
+        {
+            Res.Add(new string[fldAm]);
+            for (int j = 0; j < fldAm; j++)
+            {
+                Res[Res.Count - 1][j] = Reader[j].ToString();
+            }
+        }
+
+
+        Reader.Close();
         return Res;
     }
 
+    public List<int[]> getIntDataFromBase(string sql)  //загрузка числовых полей
+    {
+        if (sql == "") throw new ArgumentNullException("Пустая инструкция");
+
+        try
+        {
+            // создаем объект OleDbCommand для выполнения запроса к БД MS Access
+            OleDbCommand Command = new OleDbCommand(sql, BaseConnection);
+            // получаем объект OleDbDataReader для чтения табличного результата запроса SELECT
+            Reader = Command.ExecuteReader();
+        }
+        catch (Exception)
+        { throw; }
+
+        int fldAm = Reader.FieldCount;
+
+        var Res = new List<int[]>();
+
+        while (Reader.Read())
+        {
+            Res.Add(new int[fldAm]);
+            for (int j = 0; j < fldAm; j++)
+            {
+                Res[Res.Count - 1][j] = Reader.GetInt32(j);
+            }
+        }
+
+        Reader.Close();
+        return Res;
+    }
+
+    public int updateData(string sqlLine)
+    {
+        int Res = 0;
+        if (sqlLine == "") throw new ArgumentNullException("Пустая инструкция");
+        try
+        { Res = ExecuteCommand(sqlLine); }
+        catch 
+        { throw; }
+        return Res;
+    }
+
+    private int ExecuteCommand(string sqlLine)
+    {
+        int Res = 0;
+        try
+        {
+            OleDbCommand command = new OleDbCommand(sqlLine, BaseConnection);
+            // выполняем запрос к MS Access
+            Res = command.ExecuteNonQuery();
+        }
+        catch (Exception ex)
+        { throw ex; }
+
+        return Res;
+    }
 }

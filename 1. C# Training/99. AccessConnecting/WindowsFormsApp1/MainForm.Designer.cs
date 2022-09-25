@@ -40,9 +40,9 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(536, 53);
+            this.button1.Location = new System.Drawing.Point(481, 26);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(193, 83);
+            this.button1.Size = new System.Drawing.Size(79, 41);
             this.button1.TabIndex = 0;
             this.button1.Text = "button1";
             this.button1.UseVisualStyleBackColor = true;
@@ -57,50 +57,53 @@
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(59, 74);
+            this.textBox2.Location = new System.Drawing.Point(59, 52);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(395, 20);
             this.textBox2.TabIndex = 2;
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(59, 127);
+            this.textBox3.Location = new System.Drawing.Point(59, 78);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(395, 20);
             this.textBox3.TabIndex = 3;
             // 
             // textBox4
             // 
-            this.textBox4.Location = new System.Drawing.Point(59, 183);
+            this.textBox4.Location = new System.Drawing.Point(59, 104);
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(395, 20);
             this.textBox4.TabIndex = 4;
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(536, 185);
+            this.button2.Location = new System.Drawing.Point(575, 26);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(193, 83);
+            this.button2.Size = new System.Drawing.Size(79, 42);
             this.button2.TabIndex = 5;
-            this.button2.Text = "button2";
+            this.button2.Text = "исполнить";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // listBox1
             // 
+            this.listBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.listBox1.FormattingEnabled = true;
-            this.listBox1.Location = new System.Drawing.Point(59, 245);
+            this.listBox1.Location = new System.Drawing.Point(12, 141);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(427, 173);
+            this.listBox1.Size = new System.Drawing.Size(756, 277);
             this.listBox1.TabIndex = 6;
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(536, 335);
+            this.button3.Location = new System.Drawing.Point(669, 26);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(193, 83);
+            this.button3.Size = new System.Drawing.Size(79, 38);
             this.button3.TabIndex = 7;
-            this.button3.Text = "button3";
+            this.button3.Text = "загрузить";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
