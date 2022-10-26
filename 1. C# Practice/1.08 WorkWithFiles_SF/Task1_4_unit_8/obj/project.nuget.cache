@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "X91mbAZpdZCLNX54AX7gJc8N/bEjoNBHKiur6B8Z+9bhkfCel3yhWQzd/cWZN0uhZWUwSaIzcl0DQaiEReUkVw==",
+  "dgSpecHash": "U7+WVg2eiuFqv0GMWUVlQpaDEgplBg6M4izVuHUPIQyuDJIp0YmBwQR6bgL5N2JB3YKhOcDudMCuZMZaesXG7A==",
   "success": true,
-  "projectFilePath": "D:\\Program\\Repositories\\MyRepository\\1. C# Practice\\1.8 WorkWithFiles_SF\\Task1_4_unit_8\\Task1_4_unit_8.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Program\\Repositories\\MyRepository\\1. C# Practice\\1.08 WorkWithFiles_SF\\Task1_4_unit_8\\Task1_4_unit_8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Юрий\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Юрий\\.nuget\\packages\\system.threading.channels\\7.0.0-rc.1.22426.10\\system.threading.channels.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\Юрий\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512",
+    "C:\\Users\\Юрий\\.nuget\\packages\\telegram.bot.extensions.polling\\2.0.0-alpha.1\\telegram.bot.extensions.polling.2.0.0-alpha.1.nupkg.sha512"
+  ],
   "logs": []
 }

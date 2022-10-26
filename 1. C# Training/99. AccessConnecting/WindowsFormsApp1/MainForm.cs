@@ -7,7 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Telegram.Bot;
 using System.Data.OleDb;
+using excel = Microsoft.Office.Interop.Excel;
 
 namespace WindowsFormsApp1
 {

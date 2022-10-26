@@ -1,0 +1,6 @@
+Newtonsoft.Json
+System.Threading.Tasks.Extension
+System.Threading.Channel
+Telegram.Bot
+Telegram.Bot.Extensions.Polling
+Microsoft.Extensions.Hosting

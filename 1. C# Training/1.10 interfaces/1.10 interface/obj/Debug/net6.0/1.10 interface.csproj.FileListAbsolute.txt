@@ -1,0 +1,15 @@
+D:\Program\Repositories\MyRepository\1. C# Training\1.10 interfaces\1.10 interface\bin\Debug\net6.0\1.10 interface.exe
+D:\Program\Repositories\MyRepository\1. C# Training\1.10 interfaces\1.10 interface\bin\Debug\net6.0\1.10 interface.deps.json
+D:\Program\Repositories\MyRepository\1. C# Training\1.10 interfaces\1.10 interface\bin\Debug\net6.0\1.10 interface.runtimeconfig.json
+D:\Program\Repositories\MyRepository\1. C# Training\1.10 interfaces\1.10 interface\bin\Debug\net6.0\1.10 interface.dll
+D:\Program\Repositories\MyRepository\1. C# Training\1.10 interfaces\1.10 interface\bin\Debug\net6.0\ref\1.10 interface.dll
+D:\Program\Repositories\MyRepository\1. C# Training\1.10 interfaces\1.10 interface\bin\Debug\net6.0\1.10 interface.pdb
+D:\Program\Repositories\MyRepository\1. C# Training\1.10 interfaces\1.10 interface\obj\Debug\net6.0\1.10 interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\Repositories\MyRepository\1. C# Training\1.10 interfaces\1.10 interface\obj\Debug\net6.0\1.10 interface.AssemblyInfoInputs.cache
+D:\Program\Repositories\MyRepository\1. C# Training\1.10 interfaces\1.10 interface\obj\Debug\net6.0\1.10 interface.AssemblyInfo.cs
+D:\Program\Repositories\MyRepository\1. C# Training\1.10 interfaces\1.10 interface\obj\Debug\net6.0\1.10 interface.csproj.CoreCompileInputs.cache
+D:\Program\Repositories\MyRepository\1. C# Training\1.10 interfaces\1.10 interface\obj\Debug\net6.0\1.10 interface.dll
+D:\Program\Repositories\MyRepository\1. C# Training\1.10 interfaces\1.10 interface\obj\Debug\net6.0\ref\1.10 interface.dll
+D:\Program\Repositories\MyRepository\1. C# Training\1.10 interfaces\1.10 interface\obj\Debug\net6.0\1.10 interface.pdb
+D:\Program\Repositories\MyRepository\1. C# Training\1.10 interfaces\1.10 interface\obj\Debug\net6.0\1.10 interface.genruntimeconfig.cache
+D:\Program\Repositories\MyRepository\1. C# Training\1.10 interfaces\1.10 interface\obj\Debug\net6.0\1.10 interface.csproj.AssemblyReference.cache

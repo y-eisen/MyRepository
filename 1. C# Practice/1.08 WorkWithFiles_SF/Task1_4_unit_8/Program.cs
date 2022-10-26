@@ -1,6 +1,8 @@
 ﻿using System;
 using System.IO;
 using System.Linq;
+using Telegram.Bot;
+
 
 class mainClass
 { 

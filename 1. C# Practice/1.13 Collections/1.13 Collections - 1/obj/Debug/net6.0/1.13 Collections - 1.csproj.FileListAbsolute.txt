@@ -1,0 +1,15 @@
+D:\Program\Repositories\MyRepository\1. C# Practice\1.13 Collections\1.13 Collections - 1\bin\Debug\net6.0\1.13 Collections - 1.exe
+D:\Program\Repositories\MyRepository\1. C# Practice\1.13 Collections\1.13 Collections - 1\bin\Debug\net6.0\1.13 Collections - 1.deps.json
+D:\Program\Repositories\MyRepository\1. C# Practice\1.13 Collections\1.13 Collections - 1\bin\Debug\net6.0\1.13 Collections - 1.runtimeconfig.json
+D:\Program\Repositories\MyRepository\1. C# Practice\1.13 Collections\1.13 Collections - 1\bin\Debug\net6.0\1.13 Collections - 1.dll
+D:\Program\Repositories\MyRepository\1. C# Practice\1.13 Collections\1.13 Collections - 1\bin\Debug\net6.0\ref\1.13 Collections - 1.dll
+D:\Program\Repositories\MyRepository\1. C# Practice\1.13 Collections\1.13 Collections - 1\bin\Debug\net6.0\1.13 Collections - 1.pdb
+D:\Program\Repositories\MyRepository\1. C# Practice\1.13 Collections\1.13 Collections - 1\obj\Debug\net6.0\1.13 Collections - 1.csproj.AssemblyReference.cache
+D:\Program\Repositories\MyRepository\1. C# Practice\1.13 Collections\1.13 Collections - 1\obj\Debug\net6.0\1.13 Collections - 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\Repositories\MyRepository\1. C# Practice\1.13 Collections\1.13 Collections - 1\obj\Debug\net6.0\1.13 Collections - 1.AssemblyInfoInputs.cache
+D:\Program\Repositories\MyRepository\1. C# Practice\1.13 Collections\1.13 Collections - 1\obj\Debug\net6.0\1.13 Collections - 1.AssemblyInfo.cs
+D:\Program\Repositories\MyRepository\1. C# Practice\1.13 Collections\1.13 Collections - 1\obj\Debug\net6.0\1.13 Collections - 1.csproj.CoreCompileInputs.cache
+D:\Program\Repositories\MyRepository\1. C# Practice\1.13 Collections\1.13 Collections - 1\obj\Debug\net6.0\1.13 Collections - 1.dll
+D:\Program\Repositories\MyRepository\1. C# Practice\1.13 Collections\1.13 Collections - 1\obj\Debug\net6.0\ref\1.13 Collections - 1.dll
+D:\Program\Repositories\MyRepository\1. C# Practice\1.13 Collections\1.13 Collections - 1\obj\Debug\net6.0\1.13 Collections - 1.pdb
+D:\Program\Repositories\MyRepository\1. C# Practice\1.13 Collections\1.13 Collections - 1\obj\Debug\net6.0\1.13 Collections - 1.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+D:\Program\Repositories\MyRepository\1. C# Practice\1.10 Interfaces\1-10 Interfaces\bin\Release\net6.0\1-10 Interfaces.exe
+D:\Program\Repositories\MyRepository\1. C# Practice\1.10 Interfaces\1-10 Interfaces\bin\Release\net6.0\1-10 Interfaces.deps.json
+D:\Program\Repositories\MyRepository\1. C# Practice\1.10 Interfaces\1-10 Interfaces\bin\Release\net6.0\1-10 Interfaces.runtimeconfig.json
+D:\Program\Repositories\MyRepository\1. C# Practice\1.10 Interfaces\1-10 Interfaces\bin\Release\net6.0\1-10 Interfaces.dll
+D:\Program\Repositories\MyRepository\1. C# Practice\1.10 Interfaces\1-10 Interfaces\bin\Release\net6.0\ref\1-10 Interfaces.dll
+D:\Program\Repositories\MyRepository\1. C# Practice\1.10 Interfaces\1-10 Interfaces\bin\Release\net6.0\1-10 Interfaces.pdb
+D:\Program\Repositories\MyRepository\1. C# Practice\1.10 Interfaces\1-10 Interfaces\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\Program\Repositories\MyRepository\1. C# Practice\1.10 Interfaces\1-10 Interfaces\bin\Release\net6.0\Telegram.Bot.dll
+D:\Program\Repositories\MyRepository\1. C# Practice\1.10 Interfaces\1-10 Interfaces\obj\Release\net6.0\1-10 Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\Repositories\MyRepository\1. C# Practice\1.10 Interfaces\1-10 Interfaces\obj\Release\net6.0\1-10 Interfaces.AssemblyInfoInputs.cache
+D:\Program\Repositories\MyRepository\1. C# Practice\1.10 Interfaces\1-10 Interfaces\obj\Release\net6.0\1-10 Interfaces.AssemblyInfo.cs
+D:\Program\Repositories\MyRepository\1. C# Practice\1.10 Interfaces\1-10 Interfaces\obj\Release\net6.0\1-10 Interfaces.csproj.CoreCompileInputs.cache
+D:\Program\Repositories\MyRepository\1. C# Practice\1.10 Interfaces\1-10 Interfaces\obj\Release\net6.0\1-10 Interfaces.csproj.CopyComplete
+D:\Program\Repositories\MyRepository\1. C# Practice\1.10 Interfaces\1-10 Interfaces\obj\Release\net6.0\1-10 Interfaces.dll
+D:\Program\Repositories\MyRepository\1. C# Practice\1.10 Interfaces\1-10 Interfaces\obj\Release\net6.0\ref\1-10 Interfaces.dll
+D:\Program\Repositories\MyRepository\1. C# Practice\1.10 Interfaces\1-10 Interfaces\obj\Release\net6.0\1-10 Interfaces.pdb
+D:\Program\Repositories\MyRepository\1. C# Practice\1.10 Interfaces\1-10 Interfaces\obj\Release\net6.0\1-10 Interfaces.genruntimeconfig.cache

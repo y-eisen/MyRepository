@@ -1,0 +1,15 @@
+D:\Program\Repositories\MyRepository\1. C# Practice\1.12 Algorithm\1.12 Algorithm\bin\Debug\net6.0\1.12 Algorithm.exe
+D:\Program\Repositories\MyRepository\1. C# Practice\1.12 Algorithm\1.12 Algorithm\bin\Debug\net6.0\1.12 Algorithm.deps.json
+D:\Program\Repositories\MyRepository\1. C# Practice\1.12 Algorithm\1.12 Algorithm\bin\Debug\net6.0\1.12 Algorithm.runtimeconfig.json
+D:\Program\Repositories\MyRepository\1. C# Practice\1.12 Algorithm\1.12 Algorithm\bin\Debug\net6.0\1.12 Algorithm.dll
+D:\Program\Repositories\MyRepository\1. C# Practice\1.12 Algorithm\1.12 Algorithm\bin\Debug\net6.0\ref\1.12 Algorithm.dll
+D:\Program\Repositories\MyRepository\1. C# Practice\1.12 Algorithm\1.12 Algorithm\bin\Debug\net6.0\1.12 Algorithm.pdb
+D:\Program\Repositories\MyRepository\1. C# Practice\1.12 Algorithm\1.12 Algorithm\obj\Debug\net6.0\1.12 Algorithm.csproj.AssemblyReference.cache
+D:\Program\Repositories\MyRepository\1. C# Practice\1.12 Algorithm\1.12 Algorithm\obj\Debug\net6.0\1.12 Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\Repositories\MyRepository\1. C# Practice\1.12 Algorithm\1.12 Algorithm\obj\Debug\net6.0\1.12 Algorithm.AssemblyInfoInputs.cache
+D:\Program\Repositories\MyRepository\1. C# Practice\1.12 Algorithm\1.12 Algorithm\obj\Debug\net6.0\1.12 Algorithm.AssemblyInfo.cs
+D:\Program\Repositories\MyRepository\1. C# Practice\1.12 Algorithm\1.12 Algorithm\obj\Debug\net6.0\1.12 Algorithm.csproj.CoreCompileInputs.cache
+D:\Program\Repositories\MyRepository\1. C# Practice\1.12 Algorithm\1.12 Algorithm\obj\Debug\net6.0\1.12 Algorithm.dll
+D:\Program\Repositories\MyRepository\1. C# Practice\1.12 Algorithm\1.12 Algorithm\obj\Debug\net6.0\ref\1.12 Algorithm.dll
+D:\Program\Repositories\MyRepository\1. C# Practice\1.12 Algorithm\1.12 Algorithm\obj\Debug\net6.0\1.12 Algorithm.pdb
+D:\Program\Repositories\MyRepository\1. C# Practice\1.12 Algorithm\1.12 Algorithm\obj\Debug\net6.0\1.12 Algorithm.genruntimeconfig.cache

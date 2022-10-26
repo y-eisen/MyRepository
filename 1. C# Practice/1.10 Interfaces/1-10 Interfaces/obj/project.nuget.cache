@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "kp2rSfvhho8sS5C5d3Rgy3pR8pHU3jPPm1dHTaKHWDrx1LYaYZ836eaDMJiHeG7dnDupzdFr2kxFPnjSDQYalQ==",
+  "dgSpecHash": "Ue8SrGgH7wI1Br1JMGVo2gxlK8K0oy+NmumNDGbp4yNQHexofQa1nYNTWC+z+PtVeRqrFN4/DhV/mtPRQ9Wajg==",
   "success": true,
   "projectFilePath": "D:\\Program\\Repositories\\MyRepository\\1. C# Practice\\1.10 Interfaces\\1-10 Interfaces\\1-10 Interfaces.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Юрий\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Юрий\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

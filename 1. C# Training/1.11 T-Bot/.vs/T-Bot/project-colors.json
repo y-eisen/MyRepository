@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "90d72ecd-f900-4fd3-b9d1-d0c9b66a14e1": {
+      "ProjectGuid": "90d72ecd-f900-4fd3-b9d1-d0c9b66a14e1",
+      "DisplayName": "T-Bot",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

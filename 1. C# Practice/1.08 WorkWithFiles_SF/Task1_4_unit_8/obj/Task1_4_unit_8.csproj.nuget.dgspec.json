@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Program\\Repositories\\MyRepository\\1. C# Practice\\1.8 WorkWithFiles_SF\\Task1_4_unit_8\\Task1_4_unit_8.csproj": {}
+    "D:\\Program\\Repositories\\MyRepository\\1. C# Practice\\1.08 WorkWithFiles_SF\\Task1_4_unit_8\\Task1_4_unit_8.csproj": {}
   },
   "projects": {
-    "D:\\Program\\Repositories\\MyRepository\\1. C# Practice\\1.8 WorkWithFiles_SF\\Task1_4_unit_8\\Task1_4_unit_8.csproj": {
+    "D:\\Program\\Repositories\\MyRepository\\1. C# Practice\\1.08 WorkWithFiles_SF\\Task1_4_unit_8\\Task1_4_unit_8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Program\\Repositories\\MyRepository\\1. C# Practice\\1.8 WorkWithFiles_SF\\Task1_4_unit_8\\Task1_4_unit_8.csproj",
+        "projectUniqueName": "D:\\Program\\Repositories\\MyRepository\\1. C# Practice\\1.08 WorkWithFiles_SF\\Task1_4_unit_8\\Task1_4_unit_8.csproj",
         "projectName": "Task1_4_unit_8",
-        "projectPath": "D:\\Program\\Repositories\\MyRepository\\1. C# Practice\\1.8 WorkWithFiles_SF\\Task1_4_unit_8\\Task1_4_unit_8.csproj",
+        "projectPath": "D:\\Program\\Repositories\\MyRepository\\1. C# Practice\\1.08 WorkWithFiles_SF\\Task1_4_unit_8\\Task1_4_unit_8.csproj",
         "packagesPath": "C:\\Users\\Юрий\\.nuget\\packages\\",
-        "outputPath": "D:\\Program\\Repositories\\MyRepository\\1. C# Practice\\1.8 WorkWithFiles_SF\\Task1_4_unit_8\\obj\\",
+        "outputPath": "D:\\Program\\Repositories\\MyRepository\\1. C# Practice\\1.08 WorkWithFiles_SF\\Task1_4_unit_8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Юрий\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,10 @@
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Downloads": {},
+          "D:\\Downloads": {},
+          "https://www.nuget.org": {}
         },
         "frameworks": {
           "net6.0": {
@@ -38,6 +41,24 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Threading.Channels": {
+              "target": "Package",
+              "version": "[7.0.0-rc.1.22426.10, )"
+            },
+            "Telegram.Bot": {
+              "target": "Package",
+              "version": "[18.0.0, )"
+            },
+            "Telegram.Bot.Extensions.Polling": {
+              "target": "Package",
+              "version": "[2.0.0-alpha.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
